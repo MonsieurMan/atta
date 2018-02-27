@@ -1,0 +1,14 @@
+[package]
+name = "rhino"
+version = "0.1.0"
+authors = ["MonsieurMan <ange.g.picard@gmail.com>"]
+
+[dependencies]
+hyper = "0.11"
+futures = "0.1"
+tokio-core = "0.1"
+serde_json = "1.0"
+serde = "*"
+serde_derive = "*"
+tar = "0.4"
+flate2 = "1.0"
