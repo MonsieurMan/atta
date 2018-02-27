@@ -2,7 +2,7 @@
 name = "rhino"
 version = "0.1.0"
 authors = ["MonsieurMan <ange.g.picard@gmail.com>"]
-
+exclude = ["node_module/*"]
 [dependencies]
 hyper = "0.11"
 futures = "0.1"
